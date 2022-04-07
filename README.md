@@ -1,5 +1,5 @@
 # Papers
-This repository contains my papers.
+This repository contains papers written by me, for now only in spanish.
 
 
 # Web Hacking
